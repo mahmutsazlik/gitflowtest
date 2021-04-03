@@ -6,9 +6,13 @@ namespace ProfitMaximizer
     {
         static void Main(string[] args)
         {
-            int[] stations = { 3, -5, 2, 11, -8, 9, -5};
+            int[] stations = { 3, -5, 2, 11, -8, 9, -5 };
             int value = findMostProfitable(stations);
             Console.WriteLine(value);
+            int max = findMaxRecursive(stations, stations.Length);
+            Console.WriteLine(max);
+            int min = findMinRecursive(stations, stations.Length);
+            Console.WriteLine(min);
             Console.ReadKey();
         }
 
@@ -30,7 +34,6 @@ namespace ProfitMaximizer
             }
             return most;
         }
-
         private static int findMaxRecursive(int[] stations, int size)
         {
             if (size == 0)
