@@ -1,0 +1,15 @@
+C:\Users\msazliklocal\source\repos\gitflowtest\ProfitMaximizer\ProfitMaximizer\bin\Debug\net5.0\ProfitMaximizer.exe
+C:\Users\msazliklocal\source\repos\gitflowtest\ProfitMaximizer\ProfitMaximizer\bin\Debug\net5.0\ProfitMaximizer.deps.json
+C:\Users\msazliklocal\source\repos\gitflowtest\ProfitMaximizer\ProfitMaximizer\bin\Debug\net5.0\ProfitMaximizer.runtimeconfig.json
+C:\Users\msazliklocal\source\repos\gitflowtest\ProfitMaximizer\ProfitMaximizer\bin\Debug\net5.0\ProfitMaximizer.runtimeconfig.dev.json
+C:\Users\msazliklocal\source\repos\gitflowtest\ProfitMaximizer\ProfitMaximizer\bin\Debug\net5.0\ProfitMaximizer.dll
+C:\Users\msazliklocal\source\repos\gitflowtest\ProfitMaximizer\ProfitMaximizer\bin\Debug\net5.0\ref\ProfitMaximizer.dll
+C:\Users\msazliklocal\source\repos\gitflowtest\ProfitMaximizer\ProfitMaximizer\bin\Debug\net5.0\ProfitMaximizer.pdb
+C:\Users\msazliklocal\source\repos\gitflowtest\ProfitMaximizer\ProfitMaximizer\obj\Debug\net5.0\ProfitMaximizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msazliklocal\source\repos\gitflowtest\ProfitMaximizer\ProfitMaximizer\obj\Debug\net5.0\ProfitMaximizer.AssemblyInfoInputs.cache
+C:\Users\msazliklocal\source\repos\gitflowtest\ProfitMaximizer\ProfitMaximizer\obj\Debug\net5.0\ProfitMaximizer.AssemblyInfo.cs
+C:\Users\msazliklocal\source\repos\gitflowtest\ProfitMaximizer\ProfitMaximizer\obj\Debug\net5.0\ProfitMaximizer.csproj.CoreCompileInputs.cache
+C:\Users\msazliklocal\source\repos\gitflowtest\ProfitMaximizer\ProfitMaximizer\obj\Debug\net5.0\ProfitMaximizer.dll
+C:\Users\msazliklocal\source\repos\gitflowtest\ProfitMaximizer\ProfitMaximizer\obj\Debug\net5.0\ref\ProfitMaximizer.dll
+C:\Users\msazliklocal\source\repos\gitflowtest\ProfitMaximizer\ProfitMaximizer\obj\Debug\net5.0\ProfitMaximizer.pdb
+C:\Users\msazliklocal\source\repos\gitflowtest\ProfitMaximizer\ProfitMaximizer\obj\Debug\net5.0\ProfitMaximizer.genruntimeconfig.cache
