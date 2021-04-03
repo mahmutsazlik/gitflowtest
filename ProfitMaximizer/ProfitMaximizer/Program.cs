@@ -7,12 +7,13 @@ namespace ProfitMaximizer
         static void Main(string[] args)
         {
             int[] stations = { 3, -5, 2, 11, -8, 9, -5 };
+            printArray(stations);
             int value = findMostProfitable(stations);
-            Console.WriteLine(value);
+            Console.WriteLine("Max Profit : " + value);
             int max = findMaxRecursive(stations, stations.Length);
-            Console.WriteLine(max);
+            Console.WriteLine("Max Value : " + max);
             int min = findMinRecursive(stations, stations.Length);
-            Console.WriteLine(min);
+            Console.WriteLine("Min Value : " + min);
             Console.ReadKey();
         }
 
@@ -64,5 +65,17 @@ namespace ProfitMaximizer
                 return Math.Min(stations[size - 1], findMinRecursive(stations, size - 1));
             }
         }
+        public static void printArray(int[] arr)
+        {
+            Console.Write("Arr: [");
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Console.Write(arr[i]);
+                if (i != arr.Length - 1) Console.Write(",");
+            }
+            Console.WriteLine("]");
+
+        }
+
     }
 }
