@@ -46,5 +46,20 @@ namespace ProfitMaximizer
                 return Math.Max(stations[size - 1], findMaxRecursive(stations, size - 1));
             }
         }
+        private static int findMinRecursive(int[] stations, int size)
+        {
+            if (size == 0)
+            {
+                return int.MinValue;
+            }
+            else if (size == 1)
+            {
+                return stations[0];
+            }
+            else
+            {
+                return Math.Min(stations[size - 1], findMinRecursive(stations, size - 1));
+            }
+        }
     }
 }
